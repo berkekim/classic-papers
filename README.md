@@ -1,13 +1,12 @@
 # classic-papers
 Legendary academic materials deserving remembrance
 
-
-[Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules](https://github.com/berkekim/classic-papers/blob/main/flow-diagrams-turing-machines-and-languages-with-only-two-formation-rules.pdf)
-
+---
+Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules
 Authors: Corrado Böhm, Giuseppe Jacopini
-URL:
+[URL](https://github.com/berkekim/classic-papers/blob/main/flow-diagrams-turing-machines-and-languages-with-only-two-formation-rules.pdf)
 
+---
 [The Interface Segregation Principle](https://github.com/berkekim/classic-papers/blob/main/the-interface-segregation-principle.pdf)
-
 Authors: Robert C. Martin
 URL:

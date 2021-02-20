@@ -1,9 +1,8 @@
 # classic-papers
 Legendary academic materials deserving remembrance
 
-[[_TOC_]]
 
-## 1. Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules
+[Flow Diagrams, Turing Machines and Languages with Only Two Formation Rules](https://github.com/berkekim/classic-papers/blob/main/flow-diagrams-turing-machines-and-languages-with-only-two-formation-rules.pdf)
 Authors: Corrado Böhm, Giuseppe Jacopini
 URL:
 

@@ -7,6 +7,6 @@ Legendary academic materials deserving remembrance
 [URL](https://github.com/berkekim/classic-papers/blob/main/the-interface-segregation-principle.pdf)
 
 
-| Title | Author(s) | Link |
+| **Title** | **Author(s)** | **Link** |
 | ----- | --------- | ---- |
 | Flow Diagrams, Turing Machines and Languages <br>with Only Two Formation Rules | Corrado Böhm, Giuseppe Jacopini | [URL](https://github.com/berkekim/classic-papers/blob/main/flow-diagrams-turing-machines-and-languages-with-only-two-formation-rules.pdf) |

@@ -1,5 +1,5 @@
 # Classic Papers
-Legendary academic materials deserving remembrance
+Legendary academic materials deserving remembrance.
 
 | Title | Author(s) |
 | ----- | --------- |

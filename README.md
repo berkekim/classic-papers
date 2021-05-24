@@ -10,3 +10,4 @@ Legendary academic materials deserving remembrance.
 | [A Relational Model of Data for Large Shared Data Banks](https://github.com/berkekim/classic-papers/blob/main/a-relational-model-of-data-for-large-shared-data-banks.pdf) | Edgar Frank Codd |
 | [ALTO: A Personal Computer System](https://github.com/berkekim/classic-papers/blob/main/alto-a-personal-computer-system.pdf) | Xerox Corporation |
 | [Architectural Styles and the Design of Network-based Software Architectures](https://github.com/berkekim/classic-papers/blob/main/architectural-styles-and-the-design-of-network-based-software-architectures.pdf) | Roy Thomas Fielding |
+| [A Protocol for Packet Network Intercommunication](https://github.com/berkekim/classic-papers/blob/main/a-protocol-for-packet-network-intercommunication.pdf) | Vinton G. Cerf, Robert E. Kahn |

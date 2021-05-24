@@ -12,3 +12,4 @@ Legendary academic materials deserving remembrance.
 | [Architectural Styles and the Design of Network-based Software Architectures](https://github.com/berkekim/classic-papers/blob/main/architectural-styles-and-the-design-of-network-based-software-architectures.pdf) | Roy Thomas Fielding |
 | [A Protocol for Packet Network Intercommunication](https://github.com/berkekim/classic-papers/blob/main/a-protocol-for-packet-network-intercommunication.pdf) | Vinton G. Cerf, Robert E. Kahn |
 | [Error Detecting and Error Correcting Codes](https://github.com/berkekim/classic-papers/blob/main/error-detecting-and-error-correcting-codes.pdf) | Richard W. Hamming |
+| [A Mathematical Theory of Communication](https://github.com/berkekim/classic-papers/blob/main/a-mathematical-theory-of-communication.pdf)| Claude E. Shannon |

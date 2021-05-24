@@ -13,5 +13,5 @@ Legendary academic materials deserving remembrance.
 | [A Protocol for Packet Network Intercommunication](https://github.com/berkekim/classic-papers/blob/main/a-protocol-for-packet-network-intercommunication.pdf) | Vinton G. Cerf, Robert E. Kahn |
 | [Error Detecting and Error Correcting Codes](https://github.com/berkekim/classic-papers/blob/main/error-detecting-and-error-correcting-codes.pdf) | Richard W. Hamming |
 | [A Mathematical Theory of Communication](https://github.com/berkekim/classic-papers/blob/main/a-mathematical-theory-of-communication.pdf)| Claude E. Shannon |
-| [The UNIX Time-Sharing System Dennis](https://github.com/berkekim/classic-papers/blob/main/the-unix-time-sharing-system.pdf) | Dennis M. Ritchie, Ken Thompson |
+| [The UNIX Time-Sharing System](https://github.com/berkekim/classic-papers/blob/main/the-unix-time-sharing-system.pdf) | Dennis M. Ritchie, Ken Thompson |
 | [The UNIX Time-sharing System - A Retrospective](https://github.com/berkekim/classic-papers/blob/main/the-unix-time-sharing-system-a-retrospective.pdf) | Dennis M. Ritchie |

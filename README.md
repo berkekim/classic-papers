@@ -7,3 +7,4 @@ Legendary academic materials deserving remembrance.
 | [The Interface Segregation Principle](https://github.com/berkekim/classic-papers/blob/main/the-interface-segregation-principle.pdf) | Robert C. Martin |
 | [Flow Diagrams, Turing Machines and Languages <br>with Only Two Formation Rules](https://github.com/berkekim/classic-papers/blob/main/flow-diagrams-turing-machines-and-languages-with-only-two-formation-rules.pdf) | Corrado Böhm, Giuseppe Jacopini |
 | [Computing Machinery and Intelligence](https://github.com/berkekim/classic-papers/blob/main/computing-machinery-and-intelligence.pdf)| Alan M. Turing |
+| [A Relational Model of Data for Large Shared Data Banks](https://github.com/berkekim/classic-papers/blob/main/a-relational-model-of-data-for-large-shared-data-banks.pdf) | Edgar Frank Codd |

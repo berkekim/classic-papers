@@ -15,3 +15,4 @@ Legendary academic materials deserving remembrance.
 | [A Mathematical Theory of Communication](https://github.com/berkekim/classic-papers/blob/main/a-mathematical-theory-of-communication.pdf)| Claude E. Shannon |
 | [The UNIX Time-Sharing System](https://github.com/berkekim/classic-papers/blob/main/the-unix-time-sharing-system.pdf) | Dennis M. Ritchie, Ken Thompson |
 | [The UNIX Time-sharing System - A Retrospective](https://github.com/berkekim/classic-papers/blob/main/the-unix-time-sharing-system-a-retrospective.pdf) | Dennis M. Ritchie |
+| [First Draft of a Report on the EDVAC](https://github.com/berkekim/classic-papers/blob/main/first-draft-of-a-report-on-the-edvac.pdf) | John von Neumann |
